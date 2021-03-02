@@ -1,6 +1,6 @@
 from utils import fun
 def main():
-    print('Hello world!\n' * fun(3))
+    print('lalal!\n' * fun(2))
 
 
 main()
